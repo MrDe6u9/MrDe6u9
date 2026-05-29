@@ -1,4 +1,3 @@
-````md
 # 💀 About Me
 
 ```bash
