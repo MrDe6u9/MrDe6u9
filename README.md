@@ -1,3 +1,4 @@
+````md
 # 💀 About Me
 
 ```bash
@@ -7,16 +8,15 @@ Name       : Adarsh Ramgirwar
 Role       : Security Researcher
 Experience : Web, Mobile and API Penetration Testing
 Focus      : Offensive Security & Vulnerability Research
+````
 
-I am a passionate Security Researcher and Penetration Tester focused on identifying real-world exploitable vulnerabilities across web applications, APIs, mobile applications, and infrastructure environments.
+I am a passionate Security Researcher and Penetration Tester focused on identifying real-world exploitable vulnerabilities across web applications, APIs, and infrastructure environments. I enjoy performing manual penetration testing, vulnerability research, and continuously improving offensive security skills through labs, CTFs, and hands-on security assessments.
 
-I enjoy performing manual penetration testing, vulnerability research, and continuously improving offensive security skills through labs, CTFs, and hands-on security assessments.
-
-🔥 Performing manual penetration testing & vulnerability validation
-🛡️ Managing cybersecurity posture for 500+ vendor organizations
-⚔️ Specialized in Web Application & API Security
-🎯 Passionate about finding real-world exploitable vulnerabilities
-🧠 Learning continuously through HTB, THM & CTF competitions
+* 🔥 Performing manual penetration testing & vulnerability validation
+* 🛡️ Managing cybersecurity posture for 500+ vendor organizations
+* ⚔️ Specialized in Web Application & API Security
+* 🎯 Passionate about finding real-world exploitable vulnerabilities
+* 🧠 Learning continuously through HTB, THM & CTF competitions
 
 ---
 
