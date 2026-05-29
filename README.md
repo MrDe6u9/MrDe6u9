@@ -1,42 +1,20 @@
-````md
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MrDe6u9/MrDe6u9/main/assets/banner.png" width="100%"/>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Adarsh Ramgirwar
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Security+Researcher+%7C+Penetration+Tester;Web+%2F+Mobile+%2F+API+Security+Specialist;Offensive+Security+%26+Vulnerability+Research;CTF+Player+%7C+HTB+%7C+THM;Always+Learning+New+Exploits" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="320"/>
-
-</div>
-
-# 💀 About Me
-
-```bash
+💀 About Me
 > whoami
 
 Name       : Adarsh Ramgirwar
 Role       : Security Researcher
 Experience : Web, Mobile and API Penetration Testing
 Focus      : Offensive Security & Vulnerability Research
-````
 
-I am a passionate Security Researcher and Penetration Tester focused on identifying real-world exploitable vulnerabilities across web applications, APIs, and infrastructure environments. I enjoy performing manual penetration testing, vulnerability research, and continuously improving offensive security skills through labs, CTFs, and hands-on security assessments.
+I am a passionate Security Researcher and Penetration Tester focused on identifying real-world exploitable vulnerabilities across web applications, APIs, mobile applications, and infrastructure environments.
 
-* 🔥 Performing manual penetration testing & vulnerability validation
-* 🛡️ Managing cybersecurity posture for 500+ vendor organizations
-* ⚔️ Specialized in Web Application & API Security
-* 🎯 Passionate about finding real-world exploitable vulnerabilities
-* 🧠 Learning continuously through HTB, THM & CTF competitions
+I enjoy performing manual penetration testing, vulnerability research, and continuously improving offensive security skills through labs, CTFs, and hands-on security assessments.
+
+🔥 Performing manual penetration testing & vulnerability validation
+🛡️ Managing cybersecurity posture for 500+ vendor organizations
+⚔️ Specialized in Web Application & API Security
+🎯 Passionate about finding real-world exploitable vulnerabilities
+🧠 Learning continuously through HTB, THM & CTF competitions
 
 ---
 
