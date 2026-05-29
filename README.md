@@ -1,4 +1,6 @@
-💀 About Me
+# 💀 About Me
+
+```bash
 > whoami
 
 Name       : Adarsh Ramgirwar
