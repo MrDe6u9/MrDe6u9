@@ -1,7 +1,7 @@
 ````md
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%"/>
+<img src="https://raw.githubusercontent.com/MrDe6u9/MrDe6u9/main/assets/banner.png" width="100%"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Adarsh Ramgirwar
 
